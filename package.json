@@ -8,9 +8,6 @@
   "repository": {
     "url": "https://github.com/kewisch/sepa.js"
   },
-  "directories": {
-    "example": "examples"
-  },
   "pre-commit": [
     "lint"
   ],
